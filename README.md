@@ -1,2 +1,2 @@
 # dio-desafio-repo
-Primeiro Desafio da Dio sobre Github
+Primeiro Desafio de Projeto Git/Github
