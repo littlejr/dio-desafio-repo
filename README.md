@@ -1,2 +1,7 @@
-# Desafio de Git/Github da DIO
-Primeiro Desafio de Projeto Git/Github
+# Desafio de Git/Github
+Primeiro Desafio de Projeto da DIO referente ao Git/Github
+
+## Aprendizagem
+- Mardown files (.md)
+- Comandos git em Windows e Linux
+- Aplicação dos Conceitos Hands-On no Github
